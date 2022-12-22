@@ -1,9 +1,7 @@
 import React, { useState } from 'react'
 // import './Graph&Table.css'
 import { LineChart, ResponsiveContainer, Legend, Tooltip, Line, XAxis, YAxis } from 'recharts';
-import Button from './Button';
 import Topbar from '../../components/Topbar/Topbar';
-import Navbar from '../../components/Navbar/Navbar';
 
 
 export default function Day() {

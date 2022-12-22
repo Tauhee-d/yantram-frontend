@@ -1,6 +1,4 @@
 import "./App.css";
-import Navbar from "./components/Navbar/Navbar";
-import Topbar from "./components/Topbar/Topbar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Rooms from "./pages/Rooms/Room";

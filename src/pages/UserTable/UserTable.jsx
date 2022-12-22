@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
 import './UserTable.css'
-import UserDetail from '../UserDetail/UserDetail'
-import { NavLink } from "react-router-dom";
-import { Link } from 'react-router-dom';
+
 import Navbar from '../../components/Navbar/Navbar';
 import Topbar from '../../components/Topbar/Topbar';
 
