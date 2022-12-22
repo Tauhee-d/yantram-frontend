@@ -132,7 +132,7 @@ const Signin = () => {
         )
         .then(res => {
             console.log("res:",res.data)
-            navigate("/rooms")
+            navigate("/dashboard")
 
         })
         .catch(err => {
